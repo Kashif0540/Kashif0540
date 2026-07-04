@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Muhammad%20Kashif%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E100A,50:5C6247,100:0E100A&height=200&section=header&text=Hey,%20I'm%20Muhammad%20Kashif%20👋&fontSize=42&fontColor=EDE8D8&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20CS%20Student&descAlignY=58&descSize=18&descColor=8A9070&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+%26+Laravel+Full+Stack+Developer;AI+%2F+LLM+Engineer+%F0%9F%A4%96;RAG+Pipelines+%7C+AI+Agents+%7C+Automation;Final+Year+BSCS+%40+UCP+Lahore+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C22B2C&center=true&vCenter=true&width=600&lines=MERN+%26+Laravel+Full+Stack+Developer;AI+%2F+LLM+Engineer+%F0%9F%A4%96;RAG+Pipelines+%7C+AI+Agents+%7C+Automation;Final+Year+BSCS+%40+UCP+Lahore+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kashif0540&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Kashif0540?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kashif0540&style=for-the-badge&color=C22B2C&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Kashif0540?style=for-the-badge&color=5C6247&labelColor=0E100A&label=FOLLOWERS)
 
 </div>
 
@@ -79,10 +79,10 @@ me.say_hi()
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 **AI Employee** | Automation suite that handles LinkedIn posting and email replies autonomously using LLM-generated drafts | LLMs, Prompt Engineering, APIs |
-| 📚 **RAG Study Buddy** | Document ingestion + context-aware Q&A chatbot over uploaded study material | LangChain, ChromaDB, Gemini API |
-| 🌐 **MERN Web Apps** | Full-stack applications with JWT auth, bcrypt hashing, REST APIs, and cookie-based sessions | React, Node.js, Express, MongoDB |
-| 🏗️ **Laravel App** | Full-stack MVC application with authentication, RESTful APIs, and database-driven features | Laravel, PHP, MySQL |
+| 🤖 **AI Employee** | Automation suite that handles LinkedIn posting and email replies autonomously using LLM generated drafts | LLMs, Prompt Engineering, APIs |
+| 📚 **RAG Study Buddy** | Document ingestion + context aware Q&A chatbot over uploaded study material | LangChain, ChromaDB, Gemini API |
+| 🌐 **MERN Web Apps** | Full stack applications with JWT auth, bcrypt hashing, REST APIs, and cookie based sessions | React, Node.js, Express, MongoDB |
+| 🏗️ **Laravel App** | Full stack MVC application with authentication, RESTful APIs, and database driven features | Laravel, PHP, MySQL |
 | 🗄️ **Database Systems** | Relational schema design with complex queries, joins, stored procedures, and normalization | SQL, MySQL |
 
 ---
@@ -91,10 +91,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashif0540&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif0540&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kashif0540&show_icons=true&hide_border=true&bg_color=0E100A&title_color=C22B2C&icon_color=5C6247&text_color=EDE8D8&rank_icon=github" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif0540&layout=compact&hide_border=true&bg_color=0E100A&title_color=C22B2C&text_color=EDE8D8" height="180px"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kashif0540&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kashif0540&hide_border=true&background=0E100A&ring=C22B2C&fire=C22B2C&currStreakLabel=C22B2C&sideLabels=8A9070&sideNums=EDE8D8&currStreakNum=EDE8D8&dates=5C6247" width="60%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ me.say_hi()
 - 🔧 I build across two full stacks — MERN and Laravel
 - 🤖 I write AI automation that replaces manual workflows, not chatbots that answer FAQs
 - 🎓 Final year CS at University of Central Punjab, Lahore
-- 🛒 Currently building an e-commerce platform for motor accessories with Pakistan-specific payments
+- 🛒 Currently building an e-commerce platform for motor accessories with Pakistan specific payments
 - 📬 Open to internships, freelance, and collaboration
 
 ---
@@ -129,10 +129,10 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kashif0540.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E100A?style=for-the-badge&logo=googlechrome&logoColor=EDE8D8)](https://kashif0540.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-muhammad2830)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashif.muhammad2830@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashif0540)
+[![Email](https://img.shields.io/badge/Email-C22B2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashif.muhammad2830@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0E100A?style=for-the-badge&logo=github&logoColor=EDE8D8)](https://github.com/Kashif0540)
 
 </div>
 
@@ -140,8 +140,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E100A,50:5C6247,100:0E100A&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"I build full-stack apps and AI systems that do actual work — then ship them."*
+*"I build full stack apps and AI systems that do actual work — then ship them."*
 
 </div>
